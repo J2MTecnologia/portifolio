@@ -105,7 +105,9 @@
 
 	
 /* 02. GENERALS SETTINGS ================================================== */
-
+.dark_color{
+	color:#4D4C4C !important;
+}
 
 
 /* Selected text Color */
