@@ -203,7 +203,7 @@ p a:hover {
   	transition: all 0.2s ease-out;}
 
 .buttom:hover {
-	background: #93b7ae;
+	background: #4ad6ad;
 	color:#FFF;}
 
 
@@ -810,7 +810,7 @@ form {overflow:hidden}
 /* Button Send Hover */
 
 .contact form .submit:hover{
-		background: #93b7ae;
+		background: #4ad6ad;
 		cursor:pointer;}
 
 /* Input & textarea when there's something missing  */
